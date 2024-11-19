@@ -1,0 +1,20 @@
+{
+  "name": "avaliacao01-pw2",
+  "version": "1.0.0",
+  "description": "Avaliacao 01 de Programacao Web 2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davi-SC/Avaliacao01-PW2.git"
+  },
+  "author": "Davi Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davi-SC/Avaliacao01-PW2/issues"
+  },
+  "homepage": "https://github.com/Davi-SC/Avaliacao01-PW2#readme"
+}
